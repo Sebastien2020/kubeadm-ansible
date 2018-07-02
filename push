@@ -1,0 +1,1 @@
+docker push colemanword/kubeadm-ansible:v1
